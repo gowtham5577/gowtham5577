@@ -36,8 +36,7 @@
 ---
 
 ## 📫 **How to Reach Me**  
-- 📧 Email: [suhas_05](mailto:suhas_05@outlook.com)  
-- 🌐 [LinkedIn](https://www.linkedin.com/in/suhas-s-k-124abb340/) | [GitHub](https://github.com/Suhas-sk-05)  
+- 📧 Email:   | [GitHub](https://github.com/Suhas-sk-05)  
 
 ---
 
